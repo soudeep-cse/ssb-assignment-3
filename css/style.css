@@ -1,0 +1,24 @@
+th{
+
+color: white ;
+background-color: red;
+text-align: center;
+
+}
+
+td{
+    color: black ;
+    background-color: red;
+    text-align: left;
+}
+.first{
+    color:white;
+    background-color: black;
+    text-align: left;
+}
+
+.second{
+    color:black;
+    background-color: white;
+    text-align: center;
+}
